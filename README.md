@@ -1,4 +1,4 @@
-# HIS4936 - Programming the Past
+# HIS4936 - Digital Humanities 2 - Programming the Past
 Project Template, [University of South Florida](http://www.usf.edu/)
 
 Instructor: [David J. Thomas](mailto::davidjthomas@usf.edu), [thePortus.com](http://thePortus.com/)
