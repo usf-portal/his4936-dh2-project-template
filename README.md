@@ -1,5 +1,17 @@
-# Hacking History
-<small>For students of HIS4936 at the University of South Florida</small>
+# HIS4936 - Programming the Past
+Project Template, [University of South Florida](http://www.usf.edu/)
+
+Instructor: [David J. Thomas](mailto::davidjthomas@usf.edu), [thePortus.com](http://thePortus.com/)
+
+---
+
+[![Documentation Status](https://readthedocs.org/projects/programming-the-past/badge/?version=master)](http://programming-the-past.readthedocs.io/en/master/?badge=master)
+
+---
+
+This repository houses the digital workbook for students of HIS4936, 'Hacking History: Programming Digital Scholarship 2', held at the [University of South Florida](http://www.usf.edu/).
+
+---
 
 **REQUIREMENTS BEFORE STARTING**
 + [GitHub account](https://github.com) created
