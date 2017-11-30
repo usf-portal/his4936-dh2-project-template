@@ -1,5 +1,5 @@
 # Project Starter Template
 
-![Caesar in the Code](imgs/included/caesarian_code.png)
+Introduce your reader to your topic here. Let them know why this matters. This is also a good place to mention to your reader previous work done on this topic, either digitally *or* in traditional historiography. Give the reader a brief idea how your project, or some future form of it, will add to the discussion. You will go into more detail in the background section, so the main idea, above all, is to let the reader know 1) what this is, and 2) why they should care
 
-Welcome to the project started template. Edit me to make your first changes.
+Remember, throughout this workbook, this is aimed at an audience of non-specialists (and will be read by non-digital professors), so don't assume knowledge of technical lingo or database concepts. Think of this like teaching about your project and subject. If you are like me, this may help you find more material to write about. Your audience won't even know why you split this stuff between different tables, or why you joined different ones together. It is not your job to explain how everything works with databases, but you should explain enough that someone who has not taken DH can understand why and how you made the decisions that you did.
